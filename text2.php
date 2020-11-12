@@ -1,0 +1,2 @@
+Tạo bai viết ==> Xử lý ==> Truyền lên posts1 ==> admin quản lý bài viết ==> ấn nút duyệt bài ==> truyền lên posts2 ==> in ra bảng tin  
+                                                                       ==> ấn nút xóa bài   ==> xóa trên posts 
